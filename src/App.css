@@ -1,6 +1,13 @@
 .App {
   text-align: center;
 }
+.card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
 
 .App-logo {
   height: 40vmin;
